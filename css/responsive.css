@@ -1,0 +1,45 @@
+.view-div{
+   display: inline-block;
+/*    background: url();*/
+     text-align:center;
+    margin: auto;
+/* border: 1px solid blue;*/
+    box-sizing:content-box;
+     width: 100%; /* Width of new image */
+height:100% /* Height of new image */
+    
+}
+.view-div img{
+    display: none;
+    
+}
+.view-div img:target{
+display: inline-block;
+}
+
+
+
+
+
+
+.head-div{
+    
+}
+.head-div h1{
+ text-align: center;
+    font-family: sans-serif;
+}
+.container{
+border-style: dashed;
+    border-width: 1px;
+   
+    text-align:center;
+    width: 100%;
+}
+
+.ctrl-div{ 
+    display: inline-block;
+
+background-color: black;
+    margin: auto;
+}
